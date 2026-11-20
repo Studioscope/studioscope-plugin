@@ -1,0 +1,15 @@
+{
+  "name": "studioscope",
+  "owner": {
+    "name": "Studioscope",
+    "url": "https://studioscope.app"
+  },
+  "description": "Studioscope connector and skills for creative studios.",
+  "plugins": [
+    {
+      "name": "studioscope",
+      "source": "./plugins/studioscope",
+      "description": "Check client approvals and feedback, schedule projects from emails and notes, and draft scopes for your Studioscope studio."
+    }
+  ]
+}

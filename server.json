@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.studioscope/studioscope",
+  "title": "Studioscope",
+  "description": "Projects, approvals, client feedback, schedules and draft quotes for creative studios.",
+  "version": "1.0.0",
+  "websiteUrl": "https://studioscope.app",
+  "repository": {
+    "url": "https://github.com/studioscope/studioscope-plugin",
+    "source": "github"
+  },
+  "remotes": [{ "type": "streamable-http", "url": "https://studioscope.app/api/mcp" }]
+}

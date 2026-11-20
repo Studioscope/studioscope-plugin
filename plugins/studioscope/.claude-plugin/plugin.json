@@ -1,0 +1,23 @@
+{
+  "name": "studioscope",
+  "displayName": "Studioscope",
+  "version": "0.3.0",
+  "description": "Check client approvals and feedback, schedule projects from emails and notes, and draft scopes for your Studioscope studio.",
+  "author": {
+    "name": "Studioscope",
+    "url": "https://studioscope.app"
+  },
+  "homepage": "https://studioscope.app",
+  "license": "MIT",
+  "keywords": [
+    "creative studio",
+    "client review",
+    "approvals",
+    "projects",
+    "scheduling",
+    "quotes"
+  ],
+  "privacyPolicyUrl": "https://studioscope.app/privacy",
+  "termsOfServiceUrl": "https://studioscope.app/terms",
+  "supportUrl": "https://studioscope.app/contact"
+}
